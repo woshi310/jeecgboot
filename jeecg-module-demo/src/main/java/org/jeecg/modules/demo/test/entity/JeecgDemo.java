@@ -82,5 +82,7 @@ public class JeecgDemo extends JeecgEntity implements Serializable {
 	/** 乐观锁字段 */
 	@Version
 	private java.lang.Integer updateCount;
-
+	/**
+	 * 提交
+	 */
 }
