@@ -83,6 +83,6 @@ public class JeecgDemo extends JeecgEntity implements Serializable {
 	@Version
 	private java.lang.Integer updateCount;
 	/**
-	 * 提交
+	 *
 	 */
 }
